@@ -1,0 +1,30 @@
+.psd-foter-foot-are{
+
+}
+.footer-foot{
+	/* background-image: url(image/12.png); */
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: cover;
+	padding: 60px 0;
+}
+.foter-foot-top{
+	text-align: center;
+	color: var(--mainBlack);
+	padding: 50px 0;
+	
+}
+.foter-foot-top h4{
+    font-size: 50px;
+    color: var(--mainBlack);
+	font-weight: 700;
+}
+.foot-input input{
+	margin-bottom: 20px ;
+	
+}
+
+.footer-btn{
+	text-align: center;
+	padding: 30px 0;
+}

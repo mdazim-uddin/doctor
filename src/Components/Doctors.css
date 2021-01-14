@@ -1,0 +1,24 @@
+.doctor-text{
+    text-align:center;
+    padding: 30px 30px;
+    font-size:20px;
+    position: relative;
+}
+.doctor-text:before{
+content:'';
+position: absolute;
+top: 50%;
+border-bottom: 1px solid var(--mainBlack);
+}
+.paragrap{
+    padding:20px 20px;
+    border: 1px solid var(--mainGrey);
+    box-shadow:-10px 10px 10px rgba(0,0,0,0.1); ;
+}
+.paragrap p{
+    padding:20px 20px;
+    font-size:20px;
+    font-weight: 300;
+    text-align: center;
+   
+}

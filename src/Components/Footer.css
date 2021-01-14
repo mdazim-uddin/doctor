@@ -1,0 +1,39 @@
+.footer-area{
+    background-image: url("../images/Mask\ Group\ 2.png")
+}
+.footer-foot{
+    color:var(--primaryColor);
+    font-size: 20px;;
+}
+.our-service{
+    color: #15D1C7;
+    font-size: 30px;
+    padding:0px 20px;
+    text-transform: uppercase;
+}
+.footer-text{
+    color:var(--primaryColor);
+    font-size: 20px;
+    padding:10px 20px;
+}
+.foter-end{
+	padding:20px 0px;
+    color: var(--mainBlack);
+	padding-top:100px;
+	font-size: 15px;
+	text-transform: capitalize; 
+
+}
+.footer-icon{
+    padding:30px 0px;
+}
+
+.footer-icon i{
+	width: 10%;
+    height: 10%;
+    margin: 5px 5px;
+	padding: 10px 20px;
+	border-radius: 20px;
+	background-color: #7F9F85;
+	text-align: center;
+}
